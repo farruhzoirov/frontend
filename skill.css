@@ -1,0 +1,46 @@
+header{
+    text-align: center;
+    width: 100%;
+    font-size:22px
+    
+    
+}
+
+.menu{
+    width: 80%;
+    margin-right: auto5;
+    margin-left: auto;
+    background-color: rgb(26, 8, 187);
+    max-width: 800px;
+}
+img{
+    width: 25px;
+    height: 30px;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+}
+.line{
+    height: 2px;
+    background-color: blueviolet;
+}
+
+
+.item p{
+    display: inline-block;
+
+}
+.name{
+    text-align: left;
+    width: 70%;
+    color:rgb(5, 3, 16)
+    
+}
+.score{
+    text-align: right;
+    width: 30%;
+    
+    
+    
+}
